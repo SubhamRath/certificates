@@ -7,5 +7,5 @@
 
 ## Python HackerRank
 <p align="center">
-  <img src="/pictures/pythonHR.png">
+  <img src="/pictures/PythonHR.png">
 </p>
