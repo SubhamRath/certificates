@@ -9,3 +9,8 @@
 <p align="center">
   <img src="/pictures/PythonHR.png">
 </p>
+
+## SQL HackerRank
+<p align="center">
+  <img src="/pictures/SQLHR.png">
+</p>
