@@ -1,5 +1,5 @@
 # Certificates
 
 <p align="center">
-  <img src="/picture/siliconTech4.JPG">
+  <img src="/pictures/siliconTech4.JPG">
 </p>
